@@ -1,0 +1,6 @@
+{
+  "name": "HyperVault",
+  "description": "Where Machines Become Art — Luxury hypercar digital marketplace and showroom pavilion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
