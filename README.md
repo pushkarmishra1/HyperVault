@@ -1,21 +1,127 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚗 HyperVault
 
-# Run and deploy your AI Studio app
+> A premium luxury hypercar marketplace built with **React, TypeScript and Vite**, inspired by modern automotive experiences.
 
-This contains everything you need to run your app locally.
+![HyperVault Banner](https://via.placeholder.com/1200x400?text=HyperVault)
 
-View your app in AI Studio: https://ai.studio/apps/d7ce9f11-7afc-4f29-b73b-130a2e4c6000
+## ✨ Overview
 
-## Run Locally
+HyperVault is a cinematic luxury automotive showroom designed to deliver a premium browsing experience for enthusiasts and potential buyers. The project focuses on elegant UI/UX, smooth animations, responsive layouts and realistic vehicle exploration.
 
-**Prerequisites:**  Node.js
+---
 
+## 🚀 Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 🎬 Cinematic landing experience
+- 🚗 Premium brand showrooms
+- 🔍 Full vehicle catalog
+- ❤️ Wishlist functionality
+- ⚖️ Vehicle comparison
+- 📄 Detailed specification pages
+- 📅 Test Drive Booking UI
+- 📱 Fully responsive (Desktop, Tablet & Mobile)
+- 🌙 Dark luxury theme
+- 🔒 Privacy Policy
+- 📜 Terms of Service
+- 🛡️ Security Audit
+- 📞 Contact Page
+- 🔙 Smooth navigation with Back button
+- 💰 Dual pricing (₹ INR & $ USD)
 
+---
+
+## 🏎️ Brands
+
+- BMW
+- Audi
+- Mercedes-AMG
+- Porsche
+- Ferrari
+- Lamborghini
+- McLaren
+- Bugatti
+- Koenigsegg
+- Pagani
+- Aston Martin
+- Rolls-Royce
+- Bentley
+- Range Rover
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Router
+- Lucide React
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots here after deployment.
+
+---
+
+## 🌐 Live Demo
+
+Coming Soon
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/pushkarmishra1/HyperVault.git
+
+cd HyperVault
+
+npm install
+
+npm run dev
+```
+
+---
+
+## 📦 Build
+
+```bash
+npm run build
+```
+
+---
+
+## 📁 Folder Structure
+
+```
+src
+ ├── assets
+ ├── components
+ ├── pages
+ ├── hooks
+ ├── data
+ ├── routes
+ ├── types
+ ├── utils
+ └── App.tsx
+```
+
+---
+
+## 👨‍💻 Author
+
+**Pushkar Mishra**
+
+Frontend Developer | React Developer | MERN Stack Developer
+
+GitHub: https://github.com/pushkarmishra1
+
+---
+
+## 📄 License
+
+This project is created for learning and portfolio purposes.
