@@ -94,14 +94,14 @@ export const audiVehicles: Vehicle[] = [
     priceUsd: '$125,800',
     tagline: 'The Ultimate Super-Wagon.',
     description: '621 horsepower, 22-inch lightweight forged wheels, and raw V8 twin-turbo force wrapped in the world’s most desirable wagon body.',
-    heroImage: 'https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?q=80&w=1600&auto=format&fit=crop',
-    thumbnail: 'https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?q=80&w=800&auto=format&fit=crop',
+    heroImage: 'https://images.unsplash.com/photo-1594816115538-0f669a0337d9?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGF1ZGklMjByczYlMjBhdmFudHxlbnwwfHwwfHx8MA%3D%3D',
+    thumbnail: 'https://images.unsplash.com/photo-1615715070496-d85daab3618d?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXVkaSUyMHJzNnxlbnwwfHwwfHx8MA%3D%3D',
     colorOptions: [
       { name: 'Ascari Blue Matte', hex: '#1e3a8a' },
       { name: 'Dew Silver Matte', hex: '#d1d5db' }
     ],
     gallery: [
-      { url: 'https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?q=80&w=1600&auto=format&fit=crop', caption: 'Audi RS6 Avant wagon aggression', type: 'exterior' }
+      { url: 'https://images.unsplash.com/photo-1594816115538-0f669a0337d9?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGF1ZGklMjByczYlMjBhdmFudHxlbnwwfHwwfHx8MA%3D%3D', caption: 'Audi RS6 Avant wagon aggression', type: 'exterior' }
     ],
     performanceMetrics: [
       { label: '0-100 KM/H', value: '3.3s' },
@@ -131,14 +131,14 @@ export const audiVehicles: Vehicle[] = [
     priceUsd: '$127,800',
     tagline: 'Widebody Fastback Dominance.',
     description: 'Sculpted widebody proportions, active rear spoiler, and 621 HP V8 twin-turbo engine engineered for high-speed grand touring supremacy.',
-    heroImage: 'https://images.unsplash.com/photo-1541348263662-e082662d82da?q=80&w=1600&auto=format&fit=crop',
-    thumbnail: 'https://images.unsplash.com/photo-1541348263662-e082662d82da?q=80&w=800&auto=format&fit=crop',
+    heroImage: 'https://images.unsplash.com/photo-1618056210931-39f730ebbf67?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXVkaSUyMHJzN3xlbnwwfHwwfHx8MA%3D%3D',
+    thumbnail: 'https://images.unsplash.com/photo-1646405871744-2005e64f8e32?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGF1ZGklMjByczd8ZW58MHx8MHx8fDA%3D',
     colorOptions: [
       { name: 'Tangor Red Metallic', hex: '#990000' },
       { name: 'Daytona Grey Pearl', hex: '#4b5563' }
     ],
     gallery: [
-      { url: 'https://images.unsplash.com/photo-1541348263662-e082662d82da?q=80&w=1600&auto=format&fit=crop', caption: 'Audi RS7 Sportback front view', type: 'exterior' }
+      { url: 'https://images.unsplash.com/photo-1618056210931-39f730ebbf67?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXVkaSUyMHJzN3xlbnwwfHwwfHx8MA%3D%3D', caption: 'Audi RS7 Sportback front view', type: 'exterior' }
     ],
     performanceMetrics: [
       { label: '0-100 KM/H', value: '3.3s' },
@@ -168,15 +168,15 @@ export const audiVehicles: Vehicle[] = [
     priceUsd: '$209,700',
     tagline: 'Screaming 8,700 RPM V10 Symphony.',
     description: 'The swan song of Audi’s naturally aspirated mid-engine masterpiece, delivering pure mechanical resonance and sharp handling.',
-    heroImage: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=1600&auto=format&fit=crop',
-    thumbnail: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=800&auto=format&fit=crop',
+    heroImage: 'https://images.unsplash.com/photo-1623659248894-1a0272243054?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGF1ZGklMjByOHxlbnwwfHwwfHx8MA%3D%3D',
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoineeQAqB6NJTLE0MIQInJZbCUNU1HLov-4FdeE5Ljoq4JlsRtnNX_ap&s=10',
     colorOptions: [
       { name: 'Vegas Yellow', hex: '#facc15' },
       { name: 'Suzuka Grey', hex: '#e5e7eb' },
       { name: 'Mythos Black', hex: '#000000' }
     ],
     gallery: [
-      { url: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=1600&auto=format&fit=crop', caption: 'Audi R8 V10 Performance iconic profile', type: 'exterior' }
+      { url: 'https://images.unsplash.com/photo-1623659248894-1a0272243054?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGF1ZGklMjByOHxlbnwwfHwwfHx8MA%3D%3D', caption: 'Audi R8 V10 Performance iconic profile', type: 'exterior' }
     ],
     performanceMetrics: [
       { label: '0-100 KM/H', value: '3.1s' },
@@ -206,14 +206,14 @@ export const audiVehicles: Vehicle[] = [
     priceUsd: '$147,100',
     tagline: 'Sculpted Electric Powerhouse.',
     description: 'Combining 637 HP boost launch control, 800V ultra-fast charging, and Porsche Taycan-platform chassis dynamics.',
-    heroImage: 'https://images.unsplash.com/photo-1617788138017-80ad40651399?q=80&w=1600&auto=format&fit=crop',
-    thumbnail: 'https://images.unsplash.com/photo-1617788138017-80ad40651399?q=80&w=800&auto=format&fit=crop',
+    heroImage: 'https://images.unsplash.com/photo-1629897874832-a2e2f0d3715d?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YXVkaSUyMGUlMjB0cm9ufGVufDB8fDB8fHww',
+    thumbnail: 'https://w0.peakpx.com/wallpaper/284/924/HD-wallpaper-audi-rs5-engine-audi-rs5-audi-cars-speedometer-interior.jpg',
     colorOptions: [
       { name: 'Tactical Green Metallic', hex: '#166534' },
       { name: 'Daytona Grey', hex: '#4b5563' }
     ],
     gallery: [
-      { url: 'https://images.unsplash.com/photo-1617788138017-80ad40651399?q=80&w=1600&auto=format&fit=crop', caption: 'Audi RS e-tron GT futuristic electric design', type: 'exterior' }
+      { url: 'https://images.unsplash.com/photo-1629897874832-a2e2f0d3715d?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YXVkaSUyMGUlMjB0cm9ufGVufDB8fDB8fHww', caption: 'Audi RS e-tron GT futuristic electric design', type: 'exterior' }
     ],
     performanceMetrics: [
       { label: '0-100 KM/H', value: '3.1s' },

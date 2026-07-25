@@ -93,14 +93,14 @@ export const mercedesVehicles: Vehicle[] = [
     priceUsd: '$170,350',
     tagline: '1,000+ Nm Torque Executive Rocket.',
     description: 'The most powerful series-production model from Affalterbach, launching to 100 km/h in under 3 seconds.',
-    heroImage: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=1600&auto=format&fit=crop',
-    thumbnail: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=800&auto=format&fit=crop',
+    heroImage: 'https://images.unsplash.com/photo-1741014154802-ecd803813064?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    thumbnail: 'https://images.unsplash.com/photo-1564498617702-7032ead7892c?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGFtZyUyMGd0fGVufDB8fDB8fHww',
     colorOptions: [
       { name: 'Green Hell Magno', hex: '#15803d' },
       { name: 'Obsidian Black', hex: '#000000' }
     ],
     gallery: [
-      { url: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=1600&auto=format&fit=crop', caption: 'AMG GT 63 S E Performance wide stance', type: 'exterior' }
+      { url: 'https://images.unsplash.com/photo-1741014154802-ecd803813064?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', caption: 'AMG GT 63 S E Performance wide stance', type: 'exterior' }
     ],
     performanceMetrics: [
       { label: '0-100 KM/H', value: '2.9s' },
@@ -130,14 +130,14 @@ export const mercedesVehicles: Vehicle[] = [
     priceUsd: '$325,000',
     tagline: 'Nürburgring Lap Record Royalty.',
     description: 'Flat-plane crank V8 engine, active two-stage rear wing, double carbon fiber front splitter, and pure GT3 racing pedigree.',
-    heroImage: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=1600&auto=format&fit=crop',
-    thumbnail: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=800&auto=format&fit=crop',
+    heroImage: 'https://images.unsplash.com/photo-1576074436157-6555fe967d80?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fG1lcmNlZGVzJTIwYW1nJTIwZ3R8ZW58MHx8MHx8fDA%3D',
+    thumbnail: 'https://images.unsplash.com/photo-1599767958551-276fcac34484?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1lcmNlZGVzJTIwYW1nJTIwZ3R8ZW58MHx8MHx8fDA%3D',
     colorOptions: [
       { name: 'AMG Magmabeam Orange', hex: '#ea580c' },
       { name: 'Designo Selenite Grey Magno', hex: '#4b5563' }
     ],
     gallery: [
-      { url: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=1600&auto=format&fit=crop', caption: 'AMG GT Black Series race wing and aero', type: 'exterior' }
+      { url: 'https://images.unsplash.com/photo-1576074436157-6555fe967d80?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fG1lcmNlZGVzJTIwYW1nJTIwZ3R8ZW58MHx8MHx8fDA%3D', caption: 'AMG GT Black Series race wing and aero', type: 'exterior' }
     ],
     performanceMetrics: [
       { label: '0-100 KM/H', value: '3.1s' },
@@ -167,14 +167,14 @@ export const mercedesVehicles: Vehicle[] = [
     priceUsd: '$2,720,000',
     tagline: 'Formula 1 World Championship Engine on Public Roads.',
     description: 'An actual Lewis Hamilton F1 engine revving to 11,000 RPM, paired with pushrod suspension and active Formula 1 DRS aero.',
-    heroImage: 'https://images.unsplash.com/photo-1563720223185-11003d516935?q=80&w=1600&auto=format&fit=crop',
-    thumbnail: 'https://images.unsplash.com/photo-1563720223185-11003d516935?q=80&w=800&auto=format&fit=crop',
+    heroImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1bHld1tjlpgNNjAk684eFjKxtrwIk_qEhTjceIiQMS47-X4xjIU_A8Y&s=10',
+    thumbnail: 'https://images.unsplash.com/photo-1549275301-c9d60945be6b?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG1lcmNlZGVzJTIwYW1nJTIwb25lfGVufDB8fDB8fHww',
     isHero: true,
     colorOptions: [
       { name: 'Mercedes-AMG F1 Silver/Black Star livery', hex: '#94a3b8' }
     ],
     gallery: [
-      { url: 'https://images.unsplash.com/photo-1563720223185-11003d516935?q=80&w=1600&auto=format&fit=crop', caption: 'AMG ONE Formula 1 derived aerodynamic body', type: 'exterior' }
+      { url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1bHld1tjlpgNNjAk684eFjKxtrwIk_qEhTjceIiQMS47-X4xjIU_A8Y&s=10', caption: 'AMG ONE Formula 1 derived aerodynamic body', type: 'exterior' }
     ],
     performanceMetrics: [
       { label: '0-100 KM/H', value: '2.9s' },
