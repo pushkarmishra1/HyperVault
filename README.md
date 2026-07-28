@@ -80,13 +80,7 @@ HyperVault is a cinematic luxury automotive showroom designed to deliver a premi
 
 > Add screenshots here after deployment.
 
----
-
-## 🌐 Live Demo
-
-Coming Soon
-
----
+--
 
 ## ⚙️ Installation
 
@@ -140,3 +134,5 @@ GitHub: https://github.com/pushkarmishra1
 ## 📄 License
 
 This project is created for learning and portfolio purposes.
+
+updation will continue...
