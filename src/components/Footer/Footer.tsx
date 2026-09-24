@@ -27,12 +27,12 @@ export const Footer: React.FC = () => {
               </div>
 
               <p className="text-xs text-zinc-400 font-sans max-w-sm leading-relaxed">
-                Where machines become art. An award-quality luxury automotive digital pavilion dedicated to hypercar engineering, bespoke tailoring, and acoustic mastery.
+                Where machines become art. Quality luxury automotive digital pavilion dedicated to hypercar engineering, bespoke tailoring, and acoustic mastery.
               </p>
             </div>
 
             <div className="mt-8 text-[10px] font-mono-tech text-zinc-400 uppercase tracking-widest leading-relaxed">
-              OFFICIAL PAVILION • 📍 INDIA (MAIN HQ) • MUNICH • MARANELLO • WEISSACH • MOLSHEIM
+              OFFICIAL PAVILION • 📍 INDIA (MAIN HQ) • MUNICH • USA • WEISSACH • ITALY
             </div>
           </div>
 
